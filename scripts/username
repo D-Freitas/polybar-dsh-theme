@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+echo $USER | tr '[:lower:]' '[:upper:]'; sleep 1
